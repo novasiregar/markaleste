@@ -273,7 +273,7 @@
 	},
 	"general_settings": {
 		"timeFormat": "h:mm a",
-		"language": "en",
+		"language": "id",
 		"timezone": "auto",
 		"dateFormat": "M j, Y"
 	}
